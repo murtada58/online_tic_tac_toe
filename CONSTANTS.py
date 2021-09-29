@@ -1,0 +1,9 @@
+# Game constants
+BOARD_SIZE = 3
+SCREEN_WIDTH = 600
+SCREEN_HEIGHT = 600
+
+# Networking constants
+HEADER = 8
+FORMAT = "utf-8"
+DISCONNECT_MESSAGE = "!DISCONNECT"
