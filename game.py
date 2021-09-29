@@ -74,7 +74,7 @@ def main():
     
 def next_player_move(client, board, data):
     msg = recieve(client)
-    if msg == DISCONNECT_MESSAGE:
+    if msg == DISCONNECT_MESSAGE or not data["running"]:
         data["disconnected_first"] = False
         data["running"] = False
         return
