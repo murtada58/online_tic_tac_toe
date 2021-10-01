@@ -4,7 +4,7 @@ A new web version that adds lobbies and fixes the issues with this version is no
 
 A simple online tic tac toe game made to learn a bit more about sockets and networking
 
-The server is currently hosted on a linode to allow players to connect from anywhere in the world
+The server has been deactivated for now do localhost if you want to try it
 
 Currently this has only been made to work for 2 clients and the server will not work properly if the clients dont disconnect correctly (you need to close the pygame window instead of ctrl+C)
 
