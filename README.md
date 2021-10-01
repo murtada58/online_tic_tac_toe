@@ -1,5 +1,7 @@
 # online_tic_tac_toe
 
+A new web version that adds lobbies and fixes the issues with this version is now up here https://murtada58.github.io/websockets_tic_tac_toe/
+
 A simple online tic tac toe game made to learn a bit more about sockets and networking
 
 The server is currently hosted on a linode to allow players to connect from anywhere in the world
